@@ -17,7 +17,7 @@
 ## 📂 المشاريع المميزة
 | المشروع | الوصف |
 |--------|--------|
-| [Business Card App](https://github.com/AmerCs777/Business_Card_App) | تطبيق لحساب السعرات الحرارية |
+| [Business Card App](https://github.com/AmerCs777/Business_Card_App) | واجهة تطبيق لادخال لعض البيانات |
 
 ## 📊 GitHub Stats
 
